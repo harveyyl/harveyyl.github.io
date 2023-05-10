@@ -4,7 +4,7 @@ This is my home page! My name is Harvey Lagansua and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is [http://github.com/harveyyl].
+My GitHub page is http://github.com/harveyyl.
 
 ### CPSC 120
 
